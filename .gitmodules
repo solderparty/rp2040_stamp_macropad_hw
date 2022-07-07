@@ -1,0 +1,9 @@
+[submodule "rp2040_stamp_footprints"]
+	path = rp2040_stamp_footprints
+	url = https://github.com/solderparty/rp2040_stamp_footprints.git
+[submodule "library"]
+	path = library
+	url = https://github.com/arturo182/kicad-library
+[submodule "modules"]
+	path = modules
+	url = https://github.com/arturo182/kicad-modules.git
